@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Bruna
+# Hi there 👋 I'm Bruna                                           ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=iamgirltech)
 
 ## 💜 About Me
 🌱 Beginner developer | Learning every day  
@@ -21,6 +21,5 @@
 - 📧 Email: brunapiovezani0207@gmail.com
 
 
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=iamgirltech)
 
 
