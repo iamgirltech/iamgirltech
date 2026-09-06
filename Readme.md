@@ -21,7 +21,8 @@
 ## 📫 Connect with Me
 - 📧 Email: brunapiovezani0207@gmail.com
 
-![Snake animation](https://github.com/iamgirltech/iamgirltech/blob/output/snake.gif)
+![Snake animation](https://github.com/iamgirltech/iamgirltech/blob/output/snake.svg)
+
 
 
 
