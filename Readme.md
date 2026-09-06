@@ -18,5 +18,9 @@
 - [Miniguia Clarice Lispector](https://github.com/iamgirltech/miniguia-clarice-lispector) 📖 – Creative guide project  
 
 ## 📫 Connect with Me
-- 📧 Email: brunapiovezani0207@gmail.com  
+- 📧 Email: brunapiovezani0207@gmail.com
+
+
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=iamgirltech)
+
 
