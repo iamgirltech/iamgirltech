@@ -13,6 +13,8 @@
 - 🖥️ VS Code tips & tricks  
 - 🌐 Node.js fundamentals  
 
+![Snake animation](https://github.com/iamgirltech/iamgirltech/blob/output/snake.svg)
+
 
 ## 🌟 Featured Projects
 - [Feliz](https://github.com/iamgirltech/feliz) 🎉 – Simple HTML project  
