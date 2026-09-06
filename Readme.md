@@ -1,4 +1,5 @@
-# Hi there 👋 I'm Bruna                                           ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=iamgirltech)
+# Hi there 👋 I'm Bruna                                         ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=iamgirltech&style=flat)
+
 
 ## 💜 About Me
 🌱 Beginner developer | Learning every day  
