@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Bruna                                   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=iamgirltech&style=for-the-badge&color=blueviolet&logo=github&logoColor=white)
+# Hi there 👋 I'm Bruna                                   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=iamgirltech&style=for-the-badge&color=violet&logo=github&logoColor=white)
 
 
 ## 💜 About Me
